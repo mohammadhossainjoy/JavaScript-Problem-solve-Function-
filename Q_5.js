@@ -15,5 +15,6 @@ function printDay(num) {
 }
 
 console.log(printDay(4)); 
+console.log(printDay(5)); 
 console.log(printDay(7)); 
 console.log(printDay(41));
